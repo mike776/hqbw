@@ -1,0 +1,67 @@
+article:
+  anchor_label: "Котва"
+  date: "{{ .Date }}"
+  date_updated: "Обновлено: {{ .Date }}"
+  draft: "Чернова"
+  edit_title: "Редактирай съдържанието"
+  reading_time:
+    one: "{{ .Count }} минута"
+    other: "{{ .Count }} минути"
+  reading_time_title: "Време за прочитане"
+  table_of_contents: "Заглавие"
+  word_count:
+    one: "{{ .Count }} дума"
+    other: "{{ .Count }} думи"
+  views:
+    one: "{{ .Count }} гледан"
+    other: "{{ .Count }} гледания"
+  likes:
+    one: "{{ .Count }}  харесан"
+    other: "{{ .Count }} харесани"
+  part_of_series: "Тази статия е част от серия."
+  part: "Част"
+  this_article: "Тази Статия"
+
+author:
+  byline_title: "Автор"
+
+code:
+  copy: "Копиране"
+  copied: "Копирано"
+
+error:
+  404_title: "Страницата не е намерена: объркване:"
+  404_error: "Грешка 404"
+  404_description: "Изглежда че Страницата която търсите не съществува."
+
+footer:
+  dark_appearance: "Превключвател на тъмен вид"
+  light_appearance: "Превключвател на светъл вид"
+  powered_by: "Работи на {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Връска с външен адрес"
+  no_articles: "Тук няма статий шсе още."
+
+nav:
+  scroll_to_top_title: "Отиди в началото"
+  skip_to_main: "прескочи до основния материал"
+
+search:
+  open_button_title: "Търси (/)"
+  close_button_title: "Затвори (Esc)"
+  input_placeholder: "Търси"
+
+sharing:
+  email: "Изпрати по елецтронна поща"
+  facebook: "Поделиться через Facebook"
+  linkedin: "Поделиться через LinkedIn"
+  pinterest: "PДобавить в Pinterest"
+  reddit: "Отправить в Reddit"
+  twitter: "Твитнуть в Twitter"
+
+shortcode:
+  recent_articles: "Недавние"
+
+recent:
+  show_more: "Показать еще"
