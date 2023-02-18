@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Mike"
   image = "static/apple-touch-icon.png"
-  headline = "A powerful, theme for Hugo built with Tailwind CSS."
+  headline = "You have exactly 3 seconds to stare at this page..."
   bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   links = [
     { twitter = "https://twitter.com/HQBW" },
