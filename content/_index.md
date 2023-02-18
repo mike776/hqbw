@@ -10,7 +10,7 @@ This is a demo site built entirely using Blowfish. It also contains a complete s
 
 {{< icon code>}} {{< icon envelope >}}  
 
-Explore the [sample pages]({{< ref "" >}}) to get a feel for what Blowfish can do. If you like what you see, check out the project on <a target="_blank" href="https://github.com/nunocoracao/blowfish">Github</a> or read the [Installation guide]({{< ref "" >}}) to get started.
+Explore the [sample pages]({{< ref "" >}}) to get a feel for what Blowfish can do. If you like what you see, check out the project on <a target="_blank" href="https://github.com/nunocoracao/blowfish">Github</a> or read the [Installation guide]({{< ref "" >}}) to get started...
 
 | Icon name            | Preview                           |
 | -------------------- | --------------------------------- |
