@@ -10,47 +10,53 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Docs"
-  pageRef = "docs"
-  weight = 10
-
-[[main]]
-  name = "Examples"
-  weight = 20
-
-[[main]]
-  name = "Recipes"
-  parent = "Examples"
-  pageRef = "guides"
-  weight = 10
-
-[[main]]
-  name = "Samples"
-  parent = "Examples"
-  pageRef = "samples"
-  weight = 20
-
-[[main]]
-  name = "Showcase"
-  parent = "Examples"
-  pageRef = "examples"
-  weight = 30
-
-[[main]]
-  name = "Users"
-  pageRef = "users"
-  weight = 40
+#[[main]]
+#  name = "Docs"
+#  pageRef = "docs"
+#  weight = 10
 
 #[[main]]
-#  name = "Merch"
-#  url = "http://tee.pub/lic/qwSlWVBL5zc"
-#  weight = 50
+#  name = "Examples"
+#  weight = 20
+
+#[[main]]
+#  name = "Recipes"
+#  parent = "Examples"
+#  pageRef = "guides"
+#  weight = 10
+
+#[[main]]
+#  name = "Samples"
+#  parent = "Examples"
+#  pageRef = "samples"
+#  weight = 20
+
+#[[main]]
+#  name = "Showcase"
+#  parent = "Examples"
+#  pageRef = "examples"
+#  weight = 30
+
+#[[main]]
+#  name = "Users"
+#  pageRef = "users"
+#  weight = 40
+
+[[main]]
+  name = "MD Page"
+  url = "https://MikeDimitrov.com"
+  weight = 20
 
 #[[main]]
 #  name = "Test"
 #  pageRef = "pagTest"
 #  weight = 1000
+
+[[main]]
+  identifier = "email"
+  pre = "envelope"
+  url = "mailto:mike@hqbw.com"
+  weight = 40
 
 [[main]]
   identifier = "twitter"
@@ -64,11 +70,11 @@
 #  url = "https://masto.ai/@blowfish"
 #  weight = 70
 
-#[[main]]
-#  identifier = "github"
-#  pre = "github"
-#  url = "https://github.com/nunocoracao/blowfish"
-#  weight = 80
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/mike776"
+  weight = 80
 
 
 # -- Footer Menu --

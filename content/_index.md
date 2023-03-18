@@ -2,6 +2,10 @@
 title: "Welcome to Blowfish! :tada:"
 description: "This is a demo of the Blowfish theme for Hugo."
 ---
-<meta http-equiv="refresh" content="0; URL='https://mikedimitrov.com'" />
+# This is bitcoin address for Mike Dimitrov
+<img src="/img/btc-scan.jpeg" >
+Bitcoin address:
 
-# Lets go to https://MikeDimitrov.com
+<div class="highlight">
+        <code>bc1qwhfrh4tc6hw506kqanfacjwwm7du2lhtkyqeg2</code>
+</div>
