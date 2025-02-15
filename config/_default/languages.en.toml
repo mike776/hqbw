@@ -6,6 +6,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
+[params]
 title = "HQBW"
 logo = "img/btc-scan.jpeg"
 description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
@@ -13,7 +14,7 @@ description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 
 dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Mike Dimitrov"
   image = "static/apple-touch-icon.png"
   headline = "HQ Bitcoin Wallet"
